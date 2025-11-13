@@ -8,12 +8,12 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "/kibbbbb-192.png",
+      "src": "/kibbbbb.jfif",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/kibbbbb-512.png",
+      "src": "/kibbbbb.jfif",
       "sizes": "512x512",
       "type": "image/png"
     }
