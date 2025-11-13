@@ -18,8 +18,8 @@ function Home() {
             <div className="col-md-4 mb-3">
               <div className="card">
                 <div className="card-body">
-                  <h5 className="card-title">HTML & CSS</h5>
-                  <p className="card-text">Building beautiful and responsive layouts</p>
+                  <h5 className="card-title">Coding</h5>
+                  <p className="card-text">Building simple websites using HTML and CSS.</p>
                 </div>
               </div>
             </div>
