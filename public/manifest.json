@@ -1,6 +1,6 @@
 {
   "name": "Kib Port",
-  "short_name": "Portfolio",
+  "short_name": "kibpogi",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
